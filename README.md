@@ -17,5 +17,11 @@ The purpose of this project was to create an ERD of an employee database using Q
 
 ![ERD](https://raw.githubusercontent.com/jfield24/sql-challenge/main/EmployeeSQL/solutions/ERD.PNG)
 
-##
+## Bonus Analysis Screenshots
+
+![SalaryRanges](https://github.com/jfield24/sql-challenge/blob/main/Images/SalaryRanges.JPG)
+
+![SalaryByTitle](https://raw.githubusercontent.com/jfield24/sql-challenge/main/Images/SalaryByTitle.JPG)
+
+---
 
